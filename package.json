@@ -1,0 +1,18 @@
+{
+  "name": "cs-fundamentals-in-practice",
+  "version": "1.0.0",
+  "description": "This repository contains implementations of fundamental computer science data structures and algorithms using **TypeScript**, along with small practical examples demonstrating how they can be used to solve real problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
